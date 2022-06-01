@@ -1,4 +1,4 @@
-#Currency Converter
+# Currency Converter
 
 An easy-to-use, functionality-focused currency converter between 145 currencies.
 
